@@ -1,0 +1,51 @@
+body {
+    background-color: blueviolet;
+    background-image: url(https://i.pinimg.com/originals/4d/57/4f/4d574f9f833d75ec903b64bfaf20b658.gif);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+p {
+    font-size: 0.8in;
+    color: aqua;
+    background-image: url(https://img.freepik.com/free-photo/forest-landscape_71767-127.jpg);
+    background-size: cover;
+}
+div {
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
+#d1 {
+    background-image: url(https://i.pinimg.com/564x/df/de/e1/dfdee15ff191cba5fc68584b6d03ad75.jpg);
+    width: 550px;
+    height: 700px;
+    border: ridge 20px black;
+    background-size: no-repeat;
+}
+#d2 {
+    background-image: url(https://i.pinimg.com/564x/bf/49/df/bf49df727083174d3ee948f8a6f7a1ea.jpg);
+    width: 550px;
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: solid 30px;
+    border-image: linear-gradient(black, white) 30;
+}
+#img1 {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    border: solid 10px blanchedalmond;
+    box-shadow: 20px 20px 20px 20px;
+}
+#img2 {
+    width: 30%;
+    margin: auto;
+    display: block;
+    border-radius: 30%;
+    box-shadow: 20px 30px 40px 40px;
+    border: ridge 5px
+}
